@@ -1,0 +1,24 @@
+@media (max-width: 320px) {
+    .why_choose_us .reason {
+        margin-left: 0;
+    }
+    .why_choose_us .reason_icon i {
+        margin-right: 0;
+    }
+    .why_choose_us .reason_annotation .subtitle, .subtitle_2 {
+        text-align: center;
+    }
+    .skills .annotation {
+        margin-bottom: 0;
+    }
+    .schedule {
+        width: 95%;
+        height: 92%;
+    }
+    .scale_box {
+        margin-top: 0;
+    }
+    .phone_box {
+        margin-left: 20px;
+    }
+}

@@ -1,0 +1,136 @@
+@media (min-width: 576px) and (max-width: 767.98px) {
+    /*HEADER*/
+    .header {
+        height: 500px;
+    }
+    .menu {
+        background-color: #292929;
+        color: white;
+        width: 100%;
+        position: relative;
+        text-align: left;
+        height: 65px;
+    }
+    .menu_icon {
+        color: white;
+        font-size: 2em;
+        padding-top: 15px;
+        padding-left: 15px;
+    }
+    .header .menu .sndsgn {
+        top: 0;
+        right: 0;
+        left: 0;
+        padding-top: 10px;
+        position: absolute;
+        line-height: normal;
+        transform: none;
+    }
+    .info {
+        left: 5%;
+    }
+    .header .info p {
+        width: auto;
+    }
+    .header_girl {
+        display: none;
+    }
+    /*HEADER*/
+
+
+    .title_annotation {
+        width: auto;
+    }
+    .news_title_annotation {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .testimonials_girl_photo img {
+        width: 100%;
+    }
+    .wip .wip_title_box h2 {
+        font-size: 30px;
+    }
+    .wip {
+        position: relative;
+    }
+    .phone_box {
+        margin-left: 65px;
+        margin-top: 20px;
+    }
+    .reason_icon {
+        float: none;
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .why_choose_us .reason {
+        margin-top: 0;
+        margin-left: 13%;
+    }
+    .wip_title_box {
+        width: auto;
+        padding-top: 0;
+        text-align: center;
+    }
+
+
+    .team .title_annotation {
+        width: auto;
+    }
+
+    .video {
+        height: 220px;
+    }
+    .fa-play-circle {
+        font-size: 4em;
+        color: white;
+        padding-top: 78px;
+    }
+    .player {
+        padding-top: 50px;
+        width: 100%;
+    }
+
+
+    .schedule {
+        width: 72%;
+        height: 65%;
+    }
+
+
+    .testimonial_quote {
+        margin-left: 10px;
+    }
+    .testimonial_content {
+        padding-top: 0;
+    }
+    .testimonial_details {
+        padding-left: 60px;
+        width: auto;
+    }
+    .lines {
+        padding-left: 0;
+        background-size: 100%;
+    }
+    .dots {
+        text-align: center;
+        position: unset;
+    }
+
+    .news-content {
+        padding-top: 20px;
+    }
+
+    .thanks, .contact{
+        margin-top: 0;
+    }
+
+    .contact .title_annotation {
+        width: 90%;
+    }
+    .footer {
+        margin-top: 20px;
+        padding: 30px 0;
+    }
+}

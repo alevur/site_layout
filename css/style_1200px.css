@@ -1,0 +1,17 @@
+@media (max-width: 1200px) {
+    .wip_title_box {
+        padding-top: 106px;
+    }
+    .wip .wip_title_box h2 {
+        line-height: 72px;
+    }
+    .testimonials_girl_photo img {
+        width: 100%;
+    }
+    .testimonial_content {
+        padding-top: 125px;
+    }
+    .testimonial_details {
+         width: auto;
+    }
+}

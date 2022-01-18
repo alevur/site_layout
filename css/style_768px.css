@@ -1,0 +1,121 @@
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    /*HEADER*/
+    .header {
+        height: 500px;
+    }
+    .info {
+        padding-left: 10px;
+        top: 22%;
+    }
+    .header .info p {
+        width: 315px;
+        font-size: 17px;
+    }
+    .header_girl {
+        position: unset;
+    }
+    .header_girl img {
+        position: absolute;
+        width: 60%;
+        bottom: 0;
+        right: 0;
+    }
+    /*HEADER*/
+
+
+    /* REASON*/
+    .reason {
+        margin-top: 0;
+    }
+    /* REASON*/
+
+
+    .why_choose_us .reason {
+        margin-top: 48px;
+        margin-left: 4%;
+    }
+
+    .annotation {
+        font-size: 16px;
+    }
+
+
+    /*WIP*!*/
+    .phone_box {
+        margin-left: 57px;
+    }
+    .wip .wip_title_box h2 {
+        font-size: 54px;
+        line-height: 68px;
+    }
+    /*WIP*!*/
+
+    /*STATISTIC*/
+    .statistic_annotation {
+        padding-left: 87px;
+    }
+    /*STATISTIC*/
+
+
+    /*TEAM*/
+    .team .title_annotation {
+         width: 70%;
+    }
+    /*TEAM*/
+
+    /*VIDEO*/
+    .video {
+        height: 432px;
+    }
+    .fa-play-circle {
+        padding-top: 150px;
+    }
+    .player {
+        padding-top: 150px;
+    }
+    /*VIDEO*/
+
+    /*SKILLS*/
+    .schedule {
+        width: 76%;
+        height: 69%;
+    }
+    /*SKILLS*/
+
+    /*TESTIMONIAL*/
+    .testimonials_girl_photo img {
+        width: 100%;
+    }
+    .testimonial_content {
+         padding-top: 30px;
+    }
+    .testimonial_details {
+         padding-left: 0;
+         width: auto;
+    }
+    .testimonial_quote {
+        padding-right: 26px;
+    }
+    .lines {
+        padding-left: 0;
+        background-size: 100%;
+    }
+    /*TESTIMONIAL*/
+
+    /*NEWS*/
+    .news_photo {
+         float: none;
+    }
+    .news-content {
+        margin-top: 50px;
+         padding-left: 0;
+    }
+    /*NEWS*/
+
+    /*THANKS*/
+    /*.thanks_form {*/
+    /*    transform: scale(1.2);*/
+    /*}*/
+    /*THANKS*/
+}

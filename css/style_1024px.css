@@ -1,0 +1,81 @@
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .header .info p {
+        width: 315px;
+        font-size: 17px;
+    }
+    .wip .wip_title_box h2 {
+        line-height: 68px;
+    }
+
+    .testimonials_girl_photo img {
+        width: 100%;
+    }
+    .lines {
+        background-size: 100%;
+        padding-left: 0;
+    }
+    .testimonial_content {
+         padding-top: 60px;
+    }
+    .testimonial_details {
+         width: auto;
+    }
+}
+@media (max-width: 992px) {
+    .why_choose_us .reason {
+         margin-left: 0;
+    }
+    .news_photo {
+         float: none;
+    }
+    .news-content {
+        padding-left: 0;
+        margin-top: 50px;
+    }
+}
+
+@media (max-width: 968px) {
+    .header {
+        height: 500px;
+    }
+    .menu {
+        background-color: #292929;
+        color: white;
+        width: 100%;
+        position: relative;
+        text-align: left;
+        height: 65px;
+    }
+    .menu_icon {
+        color: white;
+        font-size: 2em;
+        padding-top: 15px;
+        padding-left: 15px;
+    }
+    .header .menu .sndsgn {
+        top: 0;
+        right: 0;
+        left: 0;
+        padding-top: 10px;
+        position: absolute;
+        line-height: normal;
+        transform: none;
+    }
+    .info {
+        left: 5%;
+        width: auto;
+    }
+    .header .info p {
+        width: auto;
+    }
+    .header_girl {
+        display: none;
+    }
+}
+
+
+@media (max-width: 952px) {
+    .phone_box {
+        margin-left: 55px;
+    }
+}

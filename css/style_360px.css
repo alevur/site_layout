@@ -1,0 +1,21 @@
+@media (max-width: 368px) {
+    .info {
+        width:auto;
+    }
+    .header .info h1 {
+        font-size: 42px;
+    }
+    .header .info p {
+        width: 90%;
+    }
+    .phone_box {
+        margin-left: 38px;
+    }
+    .schedule {
+        width: 80%;
+        height: 82%;
+    }
+    .scale_box {
+         margin-top: 0;
+    }
+}
